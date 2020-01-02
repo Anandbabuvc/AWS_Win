@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>DevOps_Project</title>
+</head>
+<body>
+
+<h1>My DevOps Project</h1>
+
+<p>If you are seeing this Project is success.</p>
+
+</body>
+</html>
